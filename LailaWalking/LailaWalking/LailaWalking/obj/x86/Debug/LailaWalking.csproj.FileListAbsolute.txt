@@ -1,0 +1,7 @@
+C:\Users\G00136378\Documents\Visual Studio 2012\LailaWalking\LailaWalking\LailaWalking\obj\x86\Debug\LailaWalking.csprojResolveAssemblyReference.cache
+C:\Users\G00136378\Documents\Visual Studio 2012\LailaWalking\LailaWalking\LailaWalking\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\G00136378\Documents\Visual Studio 2012\LailaWalking\LailaWalking\LailaWalking\bin\x86\Debug\Content\Textures\sprites_map_laila.xnb
+C:\Users\G00136378\Documents\Visual Studio 2012\LailaWalking\LailaWalking\LailaWalking\bin\x86\Debug\LailaWalking.exe
+C:\Users\G00136378\Documents\Visual Studio 2012\LailaWalking\LailaWalking\LailaWalking\bin\x86\Debug\LailaWalking.pdb
+C:\Users\G00136378\Documents\Visual Studio 2012\LailaWalking\LailaWalking\LailaWalking\obj\x86\Debug\LailaWalking.exe
+C:\Users\G00136378\Documents\Visual Studio 2012\LailaWalking\LailaWalking\LailaWalking\obj\x86\Debug\LailaWalking.pdb
